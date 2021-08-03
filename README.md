@@ -4,7 +4,6 @@ In this repertory, i will show you HOW change the slowmode of a channel with a c
 ## Usage
 
 You simply have to run the command with time in parameter, and slowmode will automatically be added or edited on channel.
-=========================================================================================================================
 
 ## Get code
 
