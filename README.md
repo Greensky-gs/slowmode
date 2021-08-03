@@ -9,6 +9,6 @@ You simply have to run the command with time in parameter, and slowmode will aut
 
 I will do some code, with creating a new file, like start a new bot. Of course, you just have to take the code wich is in the ``if (commandName === 'slowmode')`` block.
 
-## Check 
+### Check 
 
 Also check command handler for more efficacity ! https://github.com/Greensky-gs/command-handler
