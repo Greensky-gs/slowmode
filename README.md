@@ -1,5 +1,6 @@
 ## slowmode 
 In this repertory, i will show you HOW change the slowmode of a channel with a command.
+Don't forget to install ms module with run in console : ``npm install ms``
 
 ## Usage
 
