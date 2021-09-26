@@ -13,3 +13,7 @@ I will do some code, with creating a new file, like start a new bot. Of course, 
 ### Check 
 
 Also check command handler for more efficacity ! https://github.com/Greensky-gs/command-handler
+
+
+###Warning !
+The version of discord.js is v12 !
